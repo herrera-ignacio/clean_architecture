@@ -11,6 +11,7 @@ This repository intents to sumarize the basis of Clean Architecture, to get a qu
 ## TOC
 
 * Introduction
+* What is Design and Architecture?
 
 ## WIP
 
