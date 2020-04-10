@@ -7,6 +7,7 @@ This repository intents to sumarize the basis of Clean Architecture, to get a qu
 ## Bibliography
 
 * [Clean Architecture - by Robert C. Martin](https://www.goodreads.com/book/show/18043011-clean-architecture)
+* [Agile Software Development, Principles, Patterns and Practices - by Robert C. Martin](https://www.goodreads.com/book/show/84985.Agile_Software_Development_Principles_Patterns_and_Practices)
 
 ## How To Use
 
@@ -24,8 +25,8 @@ This repository intents to sumarize the basis of Clean Architecture, to get a qu
     * [Structured](./paradigms/structured/README.md)
     * [Object Oriented](./paradigms/object-oriented/README.md)
     * [Functional](./paradigms/functional/README.md)
-
+* [Design Principles](./design-principles/README.md)
 
 ## WIP
 
-This repository is actively being updated, this status will change once I consider I've already cover all minimal concepts from Clean Architecture to allow anyone who reads this to have all the material required to learn this from scratch, at disposal.
+This repository is actively being updated, this status will change once I consider I've already cover all minimal concepts from Clean Architecture to allow anyone who reads this to have all the material required to learn this from scratch, at disposal
