@@ -8,15 +8,22 @@ This repository intents to sumarize the basis of Clean Architecture, to get a qu
 
 * [Clean Architecture - by Robert C. Martin](https://www.goodreads.com/book/show/18043011-clean-architecture)
 
+## How To Use
+
+* Bottom-up organization, start from first modules if you want to learn from scratch.
+* A basic understanding of programming concepts will be helpful but is not needed
+* Each module ends with a "Conclusion" section that provides a quick overview, you can jump straight to this if you want a quick reminder and you feel like you already know the topic.
+* I strongly recommend further research on the latest and more practical modules, as I don't provide lots of examples but more the theorical basis you need, be proactive.
+
 ## TOC
 
 * [Introduction](./introduction/README.md)
 * [Design and Architecture](./design-and-architecture/README.md)
 * [Behavior and Structure](./behavior-and-structure/README.md)
 * [Paradigms Overview](./paradigms/README.md)
-    * Structured
-    * Object Oriented
-    * Functional
+    * [Structured](./paradigms/structured/README.md)
+    * [Object Oriented](./paradigms/object-oriented/README.md)
+    * [Functional](./paradigms/functional/README.md)
 
 
 ## WIP

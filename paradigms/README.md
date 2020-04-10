@@ -1,7 +1,7 @@
 # Paradigms Overview
 
 * [Structured Programming](./structured/README.md)
-* Object-Oriented Programming
+* [Object-Oriented Programming](./object-oriented/README.md)
 * Functional Programming
 
 ## Structured Programming
