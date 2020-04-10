@@ -2,7 +2,7 @@
 
 * [Structured Programming](./structured/README.md)
 * [Object-Oriented Programming](./object-oriented/README.md)
-* Functional Programming
+* [Functional Programming](./functional/README.md)
 
 ## Structured Programming
 
@@ -37,3 +37,13 @@ Those three align with the three big concerns of architecture:
 * Function
 * Separation of components
 * Data management
+
+---
+
+# Conclusion
+
+Each of these three paradigms has taken something away from us, restricting some aspect of the way we write code. What we have learned over the years is _what not to do_.
+
+Software is not a rapdily advancing technology. The rules of software are the same today as they were in 1946, when Alan Turing wrote the very first code that would execute in an electronic computer. The tools have changed, and the hardware has changed, but the essence of software remains the same.
+
+Software, is composed of __sequence, selection, iteration, and indirection__. Nothing more, nothing less.
