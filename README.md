@@ -10,8 +10,14 @@ This repository intents to sumarize the basis of Clean Architecture, to get a qu
 
 ## TOC
 
-* Introduction
-* What is Design and Architecture?
+* [Introduction](./introduction/README.md)
+* [Design and Architecture](./design-and-architecture/README.md)
+* [Behavior and Structure](./behavior-and-structure/README.md)
+* [Paradigms Overview](./paradigms/README.md)
+    * Structured
+    * Object Oriented
+    * Functional
+
 
 ## WIP
 
