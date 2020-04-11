@@ -44,7 +44,8 @@ This repository intents to sumarize the basis of Clean Architecture, to get a qu
         * Stable Abstractions
         * The Main Sequence
 * [Architecture](./architecture/README.md)
-    * [Independence](./architecture/independence/README.md)
+    * [Independence (decoupling)](./architecture/independence/README.md)
+    * [Boundaries](./architecture/boundaries/README.md)
 
 ## WIP
 
