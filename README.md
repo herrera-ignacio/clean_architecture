@@ -26,6 +26,17 @@ This repository intents to sumarize the basis of Clean Architecture, to get a qu
     * [Object Oriented](./paradigms/object-oriented/README.md)
     * [Functional](./paradigms/functional/README.md)
 * [Design Principles](./design-principles/README.md)
+    * [SOLID](./design-principles/SOLID/README.md)
+        * Single-Responsibility
+        * Open-Closed
+        * Liskov Substitution
+        * Interface Segregation
+        * Dependency Inversion
+* [Components Principles](./components-principles/README.md)
+    * [Components Cohesion](./components-principles/components-cohesion.md)
+        * Reuse/Release Equivalence
+        * Common Closure
+        * Common Reuse
 
 ## WIP
 
