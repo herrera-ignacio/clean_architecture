@@ -1,12 +1,14 @@
 # Architecture
 
-* The Definition
-* Development
-* Deployment
-* Operation
-* Maintenance
-* Keeping Options Open
-* Device Independence
+* Introduction
+    * The Definition
+    * Development
+    * Deployment
+    * Operation
+    * Maintenance
+    * Keeping Options Open
+    * Device Independence
+* [Independence](./independence/README.md)
 
 ## The Definition
 
