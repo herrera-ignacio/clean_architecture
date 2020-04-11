@@ -37,6 +37,13 @@ This repository intents to sumarize the basis of Clean Architecture, to get a qu
         * Reuse/Release Equivalence
         * Common Closure
         * Common Reuse
+    * [Components Coupling](./components-principles/components-coupling.md)
+        * Acyclic Dependencies
+        * Tow-down Design
+        * Stable Dependencies
+        * Stable Abstractions
+        * The Main Sequence
+* [Architecture](./architecture/README.md)
 
 ## WIP
 
