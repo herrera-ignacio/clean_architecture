@@ -24,19 +24,19 @@ Just as it is possible to create a substantial mess with well-made bricks of cod
 
 The best structure for a software system is _heavily influenced by the social structure of the organization that uses it_ so that each software module has one, and only one, reason to change.
 
-#### OCP - Open Close Principle
+#### [OCP - Open Close Principle](./OCP.md)
 
 For software systems to be easy to change, they must be designed to allow the behavior to be changed by adding new code, rather than changing existing code.
 
-#### LSP - Liskov Substitution Principle
+#### [LSP - Liskov Substitution Principle](./LSP.md)
 
 To build software systems from interchangeable parts, those parts must adhere to a contract that allows those parts to be substituted one for another (Liskov's famous definition of subtypes).
 
-#### ISP - Interface Segregation Principle
+#### [ISP - Interface Segregation Principle](./ISP.md)
 
 Software designers should avoid depending on things that they don't use.
 
-#### DIP - Dependency Inversion Principle
+#### [DIP - Dependency Inversion Principle](./DIP.md)
 
 The code that implements high-level policy should not depend on the code that implements low-level details. Rather, _details should depend on policies_.
 
