@@ -37,7 +37,7 @@ This repository intents to sumarize the basis of Clean Architecture, to get a qu
         * Reuse/Release Equivalence
         * Common Closure
         * Common Reuse
-    * [Components Coupling](./components-principles/components-coupling.md)
+    * [Components Coupling](./components-principles/component-coupling.md)
         * Acyclic Dependencies
         * Tow-down Design
         * Stable Dependencies
@@ -45,7 +45,8 @@ This repository intents to sumarize the basis of Clean Architecture, to get a qu
         * The Main Sequence
 * [Architecture](./architecture/README.md)
     * [Independence (decoupling)](./architecture/independence/README.md)
-    * [Boundaries](./architecture/boundaries/README.md)
+    * [Boundaries and Plugin Architecture](./architecture/boundaries/README.md)
+    * [Boundary Anatomy](./architecture/boundary-anatomy/README.md)
 
 ## WIP
 
