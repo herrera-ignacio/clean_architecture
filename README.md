@@ -19,6 +19,8 @@ This repository intents to sumarize the basis of Clean Architecture, to get a qu
 
 ## TOC
 
+![clean architecture](./architecture/clean-architecture/clean-architecture.png)
+
 * [Introduction](./introduction/README.md)
 * [Design and Architecture](./design-and-architecture/README.md)
 * [Behavior and Structure](./behavior-and-structure/README.md)
@@ -51,6 +53,7 @@ This repository intents to sumarize the basis of Clean Architecture, to get a qu
     * [Policy and Level](./architecture/policy-level/README.md)
     * [Business Rules, Entities and Use Cases](./architecture/business-rules/README.md)
     * [Screaming Architecture](./architecture/screaming-architecture/README.md)
+    * [Clean Architecture](./architecture/clean-architecture/README.md)
 
 ## WIP
 
