@@ -8,6 +8,7 @@ This repository intents to sumarize the basis of Clean Architecture, to get a qu
 
 * [Clean Architecture - by Robert C. Martin](https://www.goodreads.com/book/show/18043011-clean-architecture)
 * [Agile Software Development, Principles, Patterns and Practices - by Robert C. Martin](https://www.goodreads.com/book/show/84985.Agile_Software_Development_Principles_Patterns_and_Practices)
+* [Object-Oriented Software Engineering: A Use Case Driven Approach - Ivar Jacobson](https://www.goodreads.com/book/show/296981.Object_Oriented_Software_Engineering)
 
 ## How To Use
 
@@ -48,7 +49,8 @@ This repository intents to sumarize the basis of Clean Architecture, to get a qu
     * [Boundaries and Plugin Architecture](./architecture/boundaries/README.md)
     * [Boundary Anatomy](./architecture/boundary-anatomy/README.md)
     * [Policy and Level](./architecture/policy-level/README.md)
-    * [Business Rules](./architecture/business-rules/README.md)
+    * [Business Rules, Entities and Use Cases](./architecture/business-rules/README.md)
+    * [Screaming Architecture](./architecture/screaming-architecture/README.md)
 
 ## WIP
 

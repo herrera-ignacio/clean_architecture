@@ -12,7 +12,8 @@
 * [Boundaries and Plugin Architecture](./boundaries/README.md)
 * [Boundary Anatomy](./boundary-anatomy/README.md)
 * [Policy and Level](./policy-level/README.md)
-* [Business Rules](./business-rules/README.md)
+* [Business Rules, Entities and Use Cases](./business-rules/README.md)
+* [Screaming Architecture](./screaming-architecture/README.md)
 
 ## The Definition
 
