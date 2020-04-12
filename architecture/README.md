@@ -19,6 +19,7 @@
 * [Partial Boundaries](./partial-boundaries/README.md)
 * [Layers and Boundaries](./layers-and-boundaries/README.md)
 * [Main Component](./main-component/README.md)
+* [Services](./services/README.md)
 
 ## The Definition
 
