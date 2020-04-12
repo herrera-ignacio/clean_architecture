@@ -17,6 +17,8 @@
 * [Clean Architecture](./clean-architecture/README.md)
 * [Humble Object Pattern](./humble-objects/README.md)
 * [Partial Boundaries](./partial-boundaries/README.md)
+* [Layers and Boundaries](./layers-and-boundaries/README.md)
+* [Main Component](./main-component/README.md)
 
 ## The Definition
 
