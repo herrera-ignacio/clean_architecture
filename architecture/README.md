@@ -8,7 +8,10 @@
     * Maintenance
     * Keeping Options Open
     * Device Independence
-* [Independence](./independence/README.md)
+* [Independence (decoupling)](./independence/README.md)
+* [Boundaries and Plugin Architecture](./boundaries/README.md)
+* [Boundary Anatomy](./boundary-anatomy/README.md)
+* [Policy and Level](./policy-level/README.md)
 
 ## The Definition
 
