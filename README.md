@@ -60,6 +60,7 @@ This repository intents to sumarize the basis of Clean Architecture, to get a qu
     * [Main Component](./architecture/main-component/README.md)
     * [Services](./architecture/services/README.md)
     * [Test Boundary](./architecture/test-boundary/README.md)
+    * [Clean Embedded Architecture](./architecture/clean-embedded/README.md)
 
 ## WIP
 

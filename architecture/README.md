@@ -21,6 +21,7 @@
 * [Main Component](./main-component/README.md)
 * [Services](./services/README.md)
 * [Test Boundary](./test-boundary/README.md)
+* [Clean Embedded Architecture](./clean-embedded/README.md)
 
 ## The Definition
 
