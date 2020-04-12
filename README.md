@@ -54,7 +54,8 @@ This repository intents to sumarize the basis of Clean Architecture, to get a qu
     * [Business Rules, Entities and Use Cases](./architecture/business-rules/README.md)
     * [Screaming Architecture](./architecture/screaming-architecture/README.md)
     * [Clean Architecture](./architecture/clean-architecture/README.md)
-    * [Humble Objects](./architecture/humble-objects/README.md )
+    * [Humble Objects](./architecture/humble-objects/README.md)
+    * [Partial Boundaries](./architecture/partial-boundaries/README.md)
 
 ## WIP
 

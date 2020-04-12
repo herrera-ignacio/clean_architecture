@@ -15,6 +15,8 @@
 * [Business Rules, Entities and Use Cases](./business-rules/README.md)
 * [Screaming Architecture](./screaming-architecture/README.md)
 * [Clean Architecture](./clean-architecture/README.md)
+* [Humble Object Pattern](./humble-objects/README.md)
+* [Partial Boundaries](./partial-boundaries/README.md)
 
 ## The Definition
 
