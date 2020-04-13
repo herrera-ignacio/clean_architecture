@@ -61,6 +61,10 @@ This repository intents to sumarize the basis of Clean Architecture, to get a qu
     * [Services](./architecture/services/README.md)
     * [Test Boundary](./architecture/test-boundary/README.md)
     * [Clean Embedded Architecture](./architecture/clean-embedded/README.md)
+* [Details](./details/README.md)
+    * [Database is a Detail](./details/databases/README.md)
+    * [Web is a Detail](./details/web/README.md)
+    * [Frameworks are Details](./frameworks/README.md)
 
 ## WIP
 

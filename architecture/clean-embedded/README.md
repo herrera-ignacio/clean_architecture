@@ -29,3 +29,11 @@ The line between software and firmware is typically not so well defined as the l
 One of your jobs as an embedded software developer is to firm up that line. The name of the boundary between the software and the firmware is the __hardware abstraction layer (HAL)__.
 
 The same applies to _Processor_ and _Operating System_.
+
+---
+
+# Conclusion
+
+People who are developing embedded software have a lot to learn from experiences outside of embedded software.
+
+Letting all code become firmware is not good for your product’s long-term health. Being able to test only in the target hardware is not good for your product’s long-term health. 
