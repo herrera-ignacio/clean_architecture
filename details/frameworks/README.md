@@ -31,6 +31,4 @@ Don't let frameworks into your core code. Instead, integrate them into component
 
 # Conclusion
 
-When faced with a framework, try not to marry it right away. See if there aren’t
-ways to date it for a while before you take the plunge. Keep the framework behind
-an architectural boundary if at all possible, for as long as possible.
+When faced with a framework, try not to marry it right away. See if there aren’t ways to date it for a while before you take the plunge. Keep the framework behind an architectural boundary if at all possible, for as long as possible.
