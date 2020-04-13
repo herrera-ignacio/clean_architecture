@@ -10,7 +10,7 @@ Most have the following characteristics:
 * Independent of the UI
 * Independent of any external agency
 
-![clean architecture](./clean-architecture.png)
+![clean architecture](./clean-architecture-diagram.png)
 
 Let's pay atention to the following:
 * Dependency Rule
