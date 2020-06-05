@@ -4,11 +4,12 @@
 
 This repository intents to sumarize the basis of Clean Architecture, to get a quick overview of concepts or a document to come back if you have any doubts.
 
-## :books: Bibliography
+## :books: Bibliography & Resources
 
 * [Clean Architecture - by Robert C. Martin](https://www.goodreads.com/book/show/18043011-clean-architecture)
 * [Agile Software Development, Principles, Patterns and Practices - by Robert C. Martin](https://www.goodreads.com/book/show/84985.Agile_Software_Development_Principles_Patterns_and_Practices)
 * [Object-Oriented Software Engineering: A Use Case Driven Approach - Ivar Jacobson](https://www.goodreads.com/book/show/296981.Object_Oriented_Software_Engineering)
+* [Clean Architectures in Python](https://www.youtube.com/watch?v=7Wwrv490rK4)
 
 ## :memo: How To Use
 
